@@ -143,7 +143,7 @@ All single-word options have three formats:
   -o+   - set value to 'true' or 'on'
   -o-   - set value to 'false' or 'off'
 
-You can specify the options you want to be set by default in the environment variable
+You can specify the options you want tddo be set by default in the environment variable
 JAD_OPTIONS. For example:
 
 JAD_OPTIONS=-ff+ -nonlb+ -t+ -space+
